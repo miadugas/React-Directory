@@ -1,5 +1,6 @@
 # React-Directory
 
+![Image of React-Directory]()
 
 An employee directory with React. This assignment breaks up the application's UI into components, manage component state, and can respond to user events.
 
