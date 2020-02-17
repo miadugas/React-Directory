@@ -1,12 +1,11 @@
 # React-Directory
 
-![Image of React-Directory](https://github.com/miadugas/React-Directory/blob/master/o-space.png)
-
 An employee directory with React. This assignment breaks up the application's UI into components, manage component state, and can respond to user events.
 
 # Business Context
 An employee or manager would benefit greatly from being able to view non-sensitive data about other employees. It would be particularly helpful to be able to filter employees by name.
 
+![Image of React-Directory](https://github.com/miadugas/React-Directory/blob/master/o-space.png)
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
