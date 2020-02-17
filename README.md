@@ -1,6 +1,6 @@
 # React-Directory
 
-![Image of React-Directory]()
+![Image of React-Directory](https://github.com/miadugas/React-Directory/blob/master/o-space.png)
 
 An employee directory with React. This assignment breaks up the application's UI into components, manage component state, and can respond to user events.
 
